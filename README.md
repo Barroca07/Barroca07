@@ -22,7 +22,7 @@ Estudante do último período de **Análise e Desenvolvimento de Sistemas** (UNI
 
 ---
 
-## 🛠️ Habilidades e Ferramentas
+##  Habilidades e Ferramentas
 
 <div align="center">
 
