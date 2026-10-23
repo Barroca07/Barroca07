@@ -64,9 +64,6 @@ Estudante do último período de **Análise e Desenvolvimento de Sistemas** (UNI
 Aplicação web full stack para controle de despesas mensais, com **filtragem dinâmica por categoria e mês**. Estrutura baseada em POO, consumo de APIs RESTful e persistência em PostgreSQL/Supabase.
 `Java` `Spring Boot` `PostgreSQL` `Supabase` `Render`
 
-###  [Prontuario-online](https://github.com/Barroca07/Prontuario-online) — Prontuário Digital de Enfermagem
-Prontuário digital pensado para a rotina de enfermagem, com foco em **usabilidade e organização da informação**, publicado em nuvem.
-`HTML5` `CSS3` `JavaScript` `Vercel` `GitHub Pages`
 
 ###  [React_Fliperama](https://barroca07.github.io/React_Fliperama/) — Coleção de Minigames
 Fliperama web com jogos como **Jogo da Velha** e **Campo Minado**, usando **componentes reutilizáveis** e gerenciamento de estado no React, com deploy contínuo via GitHub Pages.
