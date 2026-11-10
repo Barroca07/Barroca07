@@ -6,7 +6,7 @@
 
 Estudante do último período de **Análise e Desenvolvimento de Sistemas** (UNINASSAU), com experiência real em **sustentação de sistemas web, bancos de dados SQL e suporte técnico** no Coren-PE. Meu foco é transformar essa vivência em código limpo, aplicações úteis e entregas em produção.
 
- Recife, PE – Brasil &nbsp;|&nbsp;  Em busca de oportunidades de **estágio em Desenvolvimento de Software**
+📍 Recife, PE – Brasil &nbsp;|&nbsp;  Em busca de oportunidades de **estágio em Desenvolvimento de Software**
 
 </div>
 
@@ -14,15 +14,15 @@ Estudante do último período de **Análise e Desenvolvimento de Sistemas** (UNI
 
 ##  Sobre mim
 
--  **Trabalhando atualmente em:** sustentação e evolução de sistemas web internos como Estagiário de TI no **Coren-PE**, além de projetos pessoais full stack com Java/Spring Boot e React
--  **Estudando:** Full Stack Java (Treina Recife), arquitetura de APIs RESTful, boas práticas com POO e deploy em nuvem
--  **Me pergunte sobre:** Java e Spring Boot, integração com PostgreSQL/Supabase, React, desenvolvimento mobile com Ionic e como migrar do suporte técnico para o desenvolvimento
--  **Diferencial:** entendo o lado de quem usa o sistema, porque atendo usuários no dia a dia, e isso reflete em interfaces mais claras e soluções mais objetivas
--  **Formação:** Análise e Desenvolvimento de Sistemas, conclusão prevista para Dez/2026
+- 🔭 **Trabalhando atualmente em:** sustentação e evolução de sistemas web internos como Estagiário de TI no **Coren-PE**, além de projetos pessoais full stack com Java/Spring Boot e React
+- 🌱 **Estudando:** Full Stack Java (Treina Recife), arquitetura de APIs RESTful, boas práticas com POO e deploy em nuvem
+- 💬 **Me pergunte sobre:** Java e Spring Boot, integração com PostgreSQL/Supabase, React, desenvolvimento mobile com Ionic e como migrar do suporte técnico para o desenvolvimento
+- ⚡ **Diferencial:** entendo o lado de quem usa o sistema, porque atendo usuários no dia a dia, e isso reflete em interfaces mais claras e soluções mais objetivas
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas, conclusão prevista para Dez/2026
 
 ---
 
-##  Habilidades e Ferramentas
+## 🛠️ Habilidades e Ferramentas
 
 <div align="center">
 
@@ -53,7 +53,6 @@ Estudante do último período de **Análise e Desenvolvimento de Sistemas** (UNI
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 
 </div>
 
@@ -61,10 +60,13 @@ Estudante do último período de **Análise e Desenvolvimento de Sistemas** (UNI
 
 ##  Principais Projetos
 
+###  [Finance-Java-React](https://github.com/Barroca07/Finance-Java-React) — Gestão Financeira (Finboard)
+Aplicação web full stack para controle de despesas mensais, com **filtragem dinâmica por categoria e mês**. Estrutura baseada em POO, consumo de APIs RESTful, interface dinâmica em React e persistência em PostgreSQL/Supabase.
+`Java` `Spring Boot` `React` `PostgreSQL` `Supabase`
 
-###  [Finance-Java-React](https://github.com/Barroca07/Finance-Java-React) — Gestão Financeira Full Stack
-Aplicação web full stack para controle de despesas mensais, com **back-end em Java/Spring Boot** e **front-end em React**. Permite **filtragem dinâmica por categoria e mês**, com estrutura baseada em POO, consumo de APIs RESTful e persistência em PostgreSQL/Supabase.
-`Java` `Spring Boot` `React` `PostgreSQL` `Supabase` `Render`
+###  [React_Fliperama](https://github.com/Barroca07/React_Fliperama) — Coleção de Minigames
+Fliperama web com jogos como **Jogo da Velha** e **Campo Minado**, usando **componentes reutilizáveis** e gerenciamento de estado no React, com deploy contínuo via [GitHub Pages](https://barroca07.github.io/React_Fliperama/).
+`React` `JavaScript` `CSS3` `GitHub Pages`
 
 ###  Exploração Mobile — IonicCoin & IonicWeather
 Aplicativos mobile desenvolvidos com **Ionic**: o **IonicCoin**, conversor de moedas, e o **IonicWeather**, focados em consumo de dados externos e interfaces responsivas.
@@ -76,18 +78,18 @@ Interface web para gerenciamento de chamados, com interações dinâmicas em Jav
 
 ---
 
-##  Experiência
+## 💼 Experiência
 
 **Estagiário de TI — Coren-PE** (Conselho Regional de Enfermagem de Pernambuco)
 - Sustentação e evolução de sistemas web internos
 - Suporte a aplicações e APIs RESTful
 - Manipulação de dados em banco SQL
-- Administração de servidores e serviços web (cPanel e Mailjet)
+- Administração de servidores e serviços web (cPanel)
 - Atendimento técnico presencial e remoto, com foco na experiência do usuário
 
 ---
 
-##  Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -102,7 +104,7 @@ Interface web para gerenciamento de chamados, com interações dinâmicas em Jav
 
 ---
 
-##  Contatos
+## 📫 Contatos
 
 <div align="center">
 
@@ -113,6 +115,6 @@ Interface web para gerenciamento de chamados, com interações dinâmicas em Jav
 
 <br/>
 
- *Aberto a oportunidades de estágio em desenvolvimento de software. Vamos conversar!*
+💡 *Aberto a oportunidades de estágio em desenvolvimento de software. Vamos conversar!*
 
 </div>
