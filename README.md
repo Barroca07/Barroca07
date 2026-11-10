@@ -61,10 +61,6 @@ Estudante do último período de **Análise e Desenvolvimento de Sistemas** (UNI
 
 ##  Principais Projetos
 
-###  [Finance-Java](https://github.com/Barroca07/Finance-Java) — Gestão Financeira (Finboard)
-Aplicação web full stack para controle de despesas mensais, com **filtragem dinâmica por categoria e mês**. Estrutura baseada em POO, consumo de APIs RESTful e persistência em PostgreSQL/Supabase.
-`Java` `Spring Boot` `PostgreSQL` `Supabase` `Render`
-
 
 ###  [Finance-Java-React](https://github.com/Barroca07/Finance-Java-React) — Gestão Financeira Full Stack
 Aplicação web full stack para controle de despesas mensais, com **back-end em Java/Spring Boot** e **front-end em React**. Permite **filtragem dinâmica por categoria e mês**, com estrutura baseada em POO, consumo de APIs RESTful e persistência em PostgreSQL/Supabase.
